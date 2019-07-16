@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C302L10PetboardingApp</string>
+
+    <string-array name="pet">
+        <item>cat</item>
+        <item>hamster</item>
+        <item>dog</item>
+    </string-array>
+</resources>
